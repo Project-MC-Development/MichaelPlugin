@@ -11,7 +11,6 @@ public final class MichaelPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
         registerCommands();
     }
 }
